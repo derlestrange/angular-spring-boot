@@ -5,6 +5,8 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/angular-spring-project/dist" />
       <excludeFolder url="file://$MODULE_DIR$/angular-spring-project/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/angular-spring-boot-project/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/angular-spring-boot-project/tmp" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
