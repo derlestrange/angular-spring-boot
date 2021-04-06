@@ -1,10 +1,10 @@
 com/mercury/ecommerce/entity/ProductCategory.java
  com.mercury.ecommerce.entity.ProductCategory
-com/mercury/ecommerce/repository/ProductRepository.java
- com.mercury.ecommerce.repository.ProductRepository
-com/mercury/ecommerce/SpringBootWithAngularApplication.java
- com.mercury.ecommerce.SpringBootWithAngularApplication
 com/mercury/ecommerce/entity/Product.java
  com.mercury.ecommerce.entity.Product
+com/mercury/ecommerce/repository/ProductRepository.java
+ com.mercury.ecommerce.repository.ProductRepository
 com/mercury/ecommerce/repository/ProductCategoryRepository.java
  com.mercury.ecommerce.repository.ProductCategoryRepository
+com/mercury/ecommerce/SpringBootWithAngularApplication.java
+ com.mercury.ecommerce.SpringBootWithAngularApplication
